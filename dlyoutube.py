@@ -4,10 +4,10 @@ from moviepy.editor import VideoFileClip, AudioFileClip
 
 link = argv[1]
 yt = YouTube(link)
-filepath = "J:\yt vids"
+filepath = "INSERT FOLDER PATH HERE"
 
 yvf = yt.streams.filter(adaptive=True)
-yv = yt.streams.get_by_itag(137)
+yv = yt.streams.get_by_itag(GET INT TAG FROM FILTERS)
 ya = yt.streams.get_audio_only()
 
 yv.download(filepath,filename="VID"+yt.title+".mp4")
