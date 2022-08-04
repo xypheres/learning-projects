@@ -6,3 +6,5 @@ dlyoutube -   downloads video and audio streams of 1080p video from youtube sepa
               future update may attempt to automate that process
               input youtube link for download in inverted commas after dlyoutube.py on console
               
+​openchrome - opens new chrome window from list of websites saved in txt file.
+              text file should be formatted with one website per line
