@@ -11,3 +11,4 @@ openchrome  - opens new chrome window from list of websites saved in txt file.
 
 newsudoku   - solves sudoku.txt
               sudoku.txt should be formatted with spaces between all horizontal numbers and 0 to represent blanks
+              can currently solve up to mid level puzzles
