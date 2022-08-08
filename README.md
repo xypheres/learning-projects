@@ -12,3 +12,6 @@ openchrome  - opens new chrome window from list of websites saved in txt file.
 newsudoku   - solves sudoku.txt
               sudoku.txt should be formatted with spaces between all horizontal numbers and 0 to represent blanks
               can currently solve up to mid level puzzles
+
+foldermover - creates /title folders based on titles.txt and moves folders and contents of all folders containing title string into the new /title folder
+              multiple titles can be sorted at the same time by putting each title in a new line in title.txt
