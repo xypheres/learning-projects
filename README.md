@@ -15,3 +15,5 @@ newsudoku   - solves sudoku.txt
 
 foldermover - creates /title folders based on titles.txt and moves folders and contents of all folders in working directory containing title string into the new /title                 folder
               multiple titles can be sorted at the same time by putting each title in a new line in title.txt
+
+deldupe     - removes duplicates of png images suffixed with "(1).png". Change check term for different suffix or file type.
